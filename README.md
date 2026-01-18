@@ -23,5 +23,7 @@
   </tr>
 </table>
 
-【クイズ生成動画】
-https://github.com/user-attachments/assets/80993bc0-e914-4a97-8dbe-257a86d8d4fc
+<p align="center">
+  <b>【デモ動画：クイズ生成の様子】</b><br>
+  <video src="https://github.com/user-attachments/assets/80993bc0-e914-4a97-8dbe-257a86d8d4fc" width="80%" controls></video>
+</p>
